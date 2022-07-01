@@ -12,6 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Algorithms Site Web!" />
+        <p className="description">
+          Working...
+        </p>
       </main>
 
       <Footer />
